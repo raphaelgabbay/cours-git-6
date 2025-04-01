@@ -3,7 +3,8 @@ export default function Home() {
     <div>
       Voici les 8 contributeurs du projet :
       <ol>
-        <li>Alex</li>
+        <li>Alex fraudeur</li>
+        <li>stephane honnète citoyen</li>
       </ol>
     </div>
   );
