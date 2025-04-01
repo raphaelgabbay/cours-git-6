@@ -6,6 +6,7 @@ export default function Home() {
     < main>
         <li>Abdrahamane</li>
         <li>Alex</li>
+        <li>Frédéric b !</li>
         <li>Alex fraudeur</li>
         <li>stephane honnète citoyen</li>
     <main>
